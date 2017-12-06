@@ -1,0 +1,57 @@
+Enter a review:
+The energy company posted revenue of billion in the period, also exceeding Street forecasts. Six analysts surveyed by expected billion.
+Prediction Score:  [[ 0.56098992]]
+Enter a review:
+When the Industrial Average closed above last week, industrial giant was in the driver’s seat.
+Prediction Score:  [[ 0.60832602]]
+Enter a review:
+the company is not doing great
+Prediction Score:  [[ 0.57460582]]
+Enter a review:
+the stocks fell by points
+Prediction Score:  [[ 0.58368379]]
+Enter a review:
+this is great news for the company
+Prediction Score:  [[ 0.69678289]]
+Enter a review:
+a very bad day for this organization
+Prediction Score:  [[ 0.36043876]]
+Enter a review:
+worst performance since the beginning of the decade
+Prediction Score:  [[ 0.33980879]]
+Enter a review:
+good
+Prediction Score:  [[ 0.57331967]]
+Enter a review:
+better
+Prediction Score:  [[ 0.53047645]]
+Enter a review:
+awesome
+Prediction Score:  [[ 0.54433107]]
+Enter a review:
+worst
+Prediction Score:  [[ 0.2325552]]
+Enter a review:
+bad
+Prediction Score:  [[ 0.17823355]]
+Enter a review:
+very bad
+Prediction Score:  [[ 0.21595682]]
+Enter a review:
+Streep, as usual, is all hand gestures and eye flutters, speaking softly while carrying a big shtick.
+Prediction Score:  [[ 0.48027214]]
+Enter a review:
+He has completely outdone himself with this spectacularly beautiful and meaningful love story.
+Prediction Score:  [[ 0.70546961]]
+Enter a review:
+The script and direction frequently get sidetracked with fictional subplots and bizarre animated sequences that feel wildly out of place
+Prediction Score:  [[ 0.42915618]]
+Enter a review:
+It loses its way and literally becomes another A Christmas Carol, so why watch this when one countless other and undeniably better adaptations exist?
+Prediction Score:  [[ 0.6169762]]
+Enter a review:
+The last three months have been particularly painful for General Electric, whose shares have dropped during the past three months
+Prediction Score:  [[ 0.52298707]]
+Enter a review:
+slowly faded into the fashion margins, but like all trends and especially anything from the nineties Superstars and choker necklaces, anyone? —the company’s quirky sneakers have made a resurgence.
+Prediction Score:  [[ 0.55336702]]
